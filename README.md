@@ -17,9 +17,19 @@
  - Git, Github. 
  - Wireframing. 
  - MVC Arquitecture.
- - Etc.
+ - And more!
 
-🛠️ Today, I'm working as an Account Manager, with more than 7 years experience managing big clients accounts. I'm a KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good at leading proyects, motivating people, and I love challenges!
+📖 And, what's next?
+ - JavaScript Front-End. 
+ - Databases.
+ - APIs
+ - React.
+ - Final project
+
+🛠️ I have almost 8 years working as an Account Executive / Account Manager, KAM/B2B specialist.
+
+
+
 
 
 
