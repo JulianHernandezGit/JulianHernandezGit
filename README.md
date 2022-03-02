@@ -6,7 +6,7 @@
 
 🎓 Right now, I´m an active student at [Digital House](https://www.digitalhouse.com/), the biggest Latin American Ed-Tech company, and will graduate in August, 2022.
 
-📖	
+📖	What have I learnd till 03/2021? JavaScript basics. Express. NodeJS Basics. HTML + CSS. Scrum. Web responsive design. 
 
 <!--
 **JulianHernandezGit/JulianHernandezGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
