@@ -4,6 +4,8 @@
 
 🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm currently studying to become a Full Stack Developer.
 
+🎓 Right now, I´m an active student at [Digital House](https://www.digitalhouse.com/), the biggest Latin American Ed-Tech company.
+
 <!--
 **JulianHernandezGit/JulianHernandezGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
