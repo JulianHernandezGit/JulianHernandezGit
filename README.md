@@ -1,8 +1,8 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
-### What about Me?
+## What about Me?
 
-#### 🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm currently studying to become a Full Stack Developer.
+### 🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm currently studying to become a Full Stack Developer.
 
 🎓 Right now, I´m an active student at [Digital House](https://www.digitalhouse.com/), the biggest Latin American Ed-Tech company, and will graduate in August, 2022.
 
