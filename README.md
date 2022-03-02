@@ -4,11 +4,23 @@
 
 🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm currently studying to become a Full Stack Developer.
 
-🎓 Right now, I´m an active student at [Digital House](https://www.digitalhouse.com/), the biggest Latin American Ed-Tech company, and will graduate in August, 2022.
+🎓 Right now, I'm an active student at [Digital House](https://www.digitalhouse.com/), the biggest Latin American Ed-Tech company, and will graduate in August, 2022.
 
-📖 What have I learnd after these 3 intensive months? JavaScript. Express. NodeJS. HTML + CSS. Flexbox. Scrum. Heroku. Responsive web design. Git. Github. Wireframing. MVC  Arquitecture, etc.
+📖 What have I learned after these 3 intensive months? 
+ - JavaScript essentials. 
+ - Making projects with Express. 
+ - NodeJS. 
+ - HTML5 + CSS3. Flexbox. 
+ - Scrum Methodology. 
+ - Deploying to Heroku. 
+ - Responsive web design. 
+ - Git, Github. 
+ - Wireframing. 
+ - MVC Arquitecture.
+ - Etc.
 
-🛠️ I´m a proffesional Account Manager, with more than 7 years experience managing big clients accounts. KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good at leading proyects, motivating people, and I love challenges!
+🛠️ I'm a proffesional Account Manager, with more than 7 years experience managing big clients accounts. I'm a KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good at leading proyects, motivating people, and I love challenges!
+
 
 
 <!--
