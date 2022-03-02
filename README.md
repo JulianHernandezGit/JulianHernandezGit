@@ -1,4 +1,8 @@
-### Hi there 👋
+# Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
+
+## About Me
+
+🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm currently studying to become a Full Stack Developer.
 
 <!--
 **JulianHernandezGit/JulianHernandezGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
