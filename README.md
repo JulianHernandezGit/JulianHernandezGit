@@ -28,6 +28,8 @@
 
 🛠️ I have almost 8 years working as an Account Executive / Account Manager, KAM/B2B specialist.
 
+🎸 Music is my big passion! I have my own recording studio, and I´m the writer and composer of a Hip Hop Fusion group.
+
 
 
 
