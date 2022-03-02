@@ -8,7 +8,7 @@
 
 📖 What have I learnd after these 3 intensive months? JavaScript. Express. NodeJS. HTML + CSS. Flexbox. Scrum. Heroku. Responsive web design. Git. Github. Wireframing. MVC  Arquitecture, etc.
 
-🛠️ I´m an proffesional Account Executive, with more than 7 years experience managing big clients accounts. KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good leading proyects, and motivating people.
+🛠️ I´m a proffesional Account Manager, with more than 7 years experience managing big clients accounts. KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good at leading proyects, motivating people, and I love challenges!
 
 
 <!--
