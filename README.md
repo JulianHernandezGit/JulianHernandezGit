@@ -20,11 +20,11 @@
  - And more!
 
 📖 And, what's next?
- - JavaScript Front-End. 
+ - Front-End JavaScript. 
  - Databases.
  - APIs
  - React.
- - Final project
+ - Final project: Create a full functional E-Commerce.
 
 🛠️ I have almost 8 years working as an Account Executive / Account Manager, KAM/B2B specialist.
 
