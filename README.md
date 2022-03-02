@@ -19,7 +19,7 @@
  - MVC Arquitecture.
  - Etc.
 
-🛠️ I'm a proffesional Account Manager, with more than 7 years experience managing big clients accounts. I'm a KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good at leading proyects, motivating people, and I love challenges!
+🛠️ Today, I'm working as an Account Manager, with more than 7 years experience managing big clients accounts. I'm a KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I'm really good at leading proyects, motivating people, and I love challenges!
 
 
 
