@@ -6,10 +6,10 @@
 
 🎓 Right now, I´m an active student at [Digital House](https://www.digitalhouse.com/), the biggest Latin American Ed-Tech company, and will graduate in August, 2022.
 
-📖 What have I learnd after these 3 intensive months? JavaScript basics. Express. NodeJS basics. HTML + CSS, Flexbox. Scrum. 
-   Responsive web design. Git, Github. Wireframing, MVC Arquitecture, etc.
+📖 What have I learnd after these 3 intensive months? JavaScript. Express. NodeJS. HTML + CSS. Flexbox. Scrum. Heroku. Responsive web design. Git. Github. Wireframing. MVC  Arquitecture, etc.
 
-🛠️ I´m an proffesional Account Executive, with more than 7 years experience managing big clients accounts. KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing.
+🛠️ I´m an proffesional Account Executive, with more than 7 years experience managing big clients accounts. KAM/B2B specialist. I love teamworking, helping, learning, teaching, sharing. I´m really excited about entering to the magic IT world.
+
 
 <!--
 **JulianHernandezGit/JulianHernandezGit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
