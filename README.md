@@ -1,13 +1,17 @@
 # Hi there! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px">
 
+
 ## About Me
 
+
 🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm a Flutter Developer and a Technical Account Manager.
+
 
 🎓 My studies:
    - Flutter Development at DevTalles
    - Full Stack Development at Digital House
    - Web Programming CS50 at HarvardX
+
    
 📖 What have I learned: 
  - Flutter essentials.
@@ -26,9 +30,12 @@
  - Wireframing.
  - MVC Arquitecture.
 
+
 🛠️ Technical Account Manager Sr looking for a new challenge as a Developer.
 
+
 ### Languages and Front-End Development
+
 
 ![image](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 ![image](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
@@ -44,7 +51,9 @@
 ![image](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)
 ![image](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 
+
 ## 🔗 Lets talk!
+
 
 [![linked-in](https://img.shields.io/badge/Linked_In-0077B5?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/julianhernandezkam/)
 [![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)](https://github.com/JulianHernandezGit)
