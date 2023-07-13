@@ -21,6 +21,8 @@
  - JWT.
  - Firebase.
  - API Rest.
+ - Docker
+ - Riverpod
  - JavaScript.
  - NodeJS.
  - HTML5 + CSS3.
