@@ -15,6 +15,7 @@
    - Rundeck Process Automation - PagerDuty
    - Flutter/Dart Development - DevTalles
    - Full Stack Development with Node, JavaScript, and React - Digital House
+   - Responsive Web Design - freeCodeCamp
    - Computer Science and Web Programming - CS50 - HarvardX
    - Introduction to programming with Python - Udemy
 
