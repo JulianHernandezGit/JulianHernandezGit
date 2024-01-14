@@ -4,36 +4,19 @@
 ## About Me
 
 
-🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm a Flutter Developer and a Technical Account Manager.
+🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm a React Native Developer and a Technical Account Manager specializing in process automation.
 
 
-🎓 My studies:
-   - Flutter Development at DevTalles
-   - Full Stack Development at Digital House
-   - Web Programming CS50 at HarvardX
-
-   
-📖 What have I learned: 
- - Flutter essentials.
- - Dart.
- - Widgets.
- - Riverpod.
- - JWT.
- - Firebase.
- - API Rest.
- - Docker
- - Riverpod
- - JavaScript.
- - NodeJS.
- - HTML5 + CSS3.
- - Scrum Methodology.
- - Responsive web design.
- - Git, Github.
- - Wireframing.
- - MVC Arquitecture.
-
-
-🛠️ Technical Account Manager Sr looking for a new challenge as a Developer.
+🎓 My learning path:
+   - React Native Full Stack Development - Galaxies Dev
+   - iOS Mobile App Development - Meta
+   - Kotlin Development Essentials - Google Developer Training
+   - AWS Cloud Practitioner Essentials -  Amazon Web Services
+   - Rundeck Process Automation - PagerDuty
+   - Flutter/Dart Development - DevTalles
+   - Full Stack Development with Node, JavaScript, and React - Digital House
+   - Computer Science and Web Programming - CS50 - HarvardX
+   - Introduction to programming with Python - Udemy
 
 
 ### Languages and Front-End Development
