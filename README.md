@@ -4,7 +4,7 @@
 ## About Me
 
 
-🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm a React Native Developer and a Technical Account Manager specializing in process automation.
+🙋‍♂️ My name is Julian Hernandez, I'm from Argentina, and I'm a Mobile App Developer and a Technical Account Manager specializing in Process Automation.
 
 
 🎓 My learning path:
